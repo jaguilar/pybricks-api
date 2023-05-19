@@ -4,6 +4,11 @@
 
 ## Unreleased
 
+## Added
+- Added `set` to `ubuiltins` module ([support#402]).
+
+[support#402]: https://github.com/pybricks/support/issues/402
+
 ## 3.3.0b5 - 2023-05-16
 
 ### Added
